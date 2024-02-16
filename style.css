@@ -1,0 +1,12 @@
+/*
+Theme Name:   Neve Child
+Description:  Child theme for Neve theme
+Author:       Tu Nombre
+Template:     neve
+Version:      1.0.0
+*/
+
+.footer-bottom,
+.footer-bottom-inner {
+  visibility: hidden;
+}

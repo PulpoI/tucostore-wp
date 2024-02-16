@@ -1,0 +1,21 @@
+{
+  "package-name": "template-html-base",
+  "version": "1.0.0",
+  "description": "Plantilla base para maquetar",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: nmo test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "gulp-imagemin": "^7.1.0",
+    "gulp": "^4.0.2",
+    "gulp-webp": "^4.0.1"
+  },
+  "name": "template-html-base"
+}
