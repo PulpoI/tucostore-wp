@@ -1,4 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
+  console.log("Custom Script Loaded!");
   var footerNeve = document.querySelector(".footer-bottom");
   if (footerNeve) {
     footerNeve.remove();
